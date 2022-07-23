@@ -17,7 +17,7 @@ namespace MyNamespace
             Console.Write("Ingrese segundo número por favor ");
             b = int.Parse(Console.ReadLine());
             resul = a + b;
-            Console.WriteLine("La suma es " + resul);
+            Console.WriteLine("La suma de " + a + " y " + b + " es " + resul);
             Console.ReadLine();
         }
     }
