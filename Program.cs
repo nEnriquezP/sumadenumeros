@@ -12,7 +12,13 @@ namespace MyNamespace
         {
             int a, b, resul;
             Console.WriteLine("Bienvenido... ");
-           
+            Console.Write("Ingrese un número por favor ");
+            a = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese segundo número por favor ");
+            b = int.Parse(Console.ReadLine());
+            resul = a + b;
+            Console.WriteLine("La suma es " + resul);
+            Console.ReadLine();
         }
     }
 
