@@ -10,7 +10,7 @@ namespace MyNamespace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola_de_Nuevo");
+            Console.WriteLine("Bienvenido... ");
         }
     }
 
