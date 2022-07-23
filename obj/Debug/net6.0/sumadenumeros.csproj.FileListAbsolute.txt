@@ -1,0 +1,15 @@
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\bin\Debug\net6.0\sumadenumeros.exe
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\bin\Debug\net6.0\sumadenumeros.deps.json
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\bin\Debug\net6.0\sumadenumeros.runtimeconfig.json
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\bin\Debug\net6.0\sumadenumeros.dll
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\bin\Debug\net6.0\sumadenumeros.pdb
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.csproj.AssemblyReference.cache
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.AssemblyInfoInputs.cache
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.AssemblyInfo.cs
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.csproj.CoreCompileInputs.cache
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.dll
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\refint\sumadenumeros.dll
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.pdb
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\sumadenumeros.genruntimeconfig.cache
+C:\Users\PC_Nelson_Enriquez\source\repos\sumadenumeros\obj\Debug\net6.0\ref\sumadenumeros.dll
