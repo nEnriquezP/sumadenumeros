@@ -10,7 +10,9 @@ namespace MyNamespace
     {
         static void Main(string[] args)
         {
+            int a, b, resul;
             Console.WriteLine("Bienvenido... ");
+           
         }
     }
 
